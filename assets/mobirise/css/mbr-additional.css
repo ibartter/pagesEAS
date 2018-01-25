@@ -1089,6 +1089,18 @@ h6,
 #content1-1l DIV {
   text-align: center;
 }
+#content1-1p P {
+  text-align: center;
+}
+#content1-1t P {
+  text-align: center;
+}
+#content1-1x P {
+  text-align: center;
+}
+#content1-1z P {
+  text-align: center;
+}
 #header3-2g .mbr-section-title,
 #header3-2g .mbr-section-subtitle {
   text-align: center;
@@ -1116,18 +1128,6 @@ h6,
   font-size: 16px;
   font-family: 'Open Sans', sans-serif;
 }
-#content1-1p P {
-  text-align: center;
-}
-#content1-1t P {
-  text-align: center;
-}
-#content1-1x P {
-  text-align: center;
-}
-#content1-1z P {
-  text-align: center;
-}
 #content1-21 P {
   text-align: center;
 }
@@ -1145,5 +1145,136 @@ h6,
   text-align: center;
 }
 #content1-2w P {
+  text-align: center;
+}
+
+#ext_menu-2y .hide-buttons .nav-btn {
+  display: none !important;
+}
+#ext_menu-2y .navbar-caption {
+  color: #ffffff;
+}
+#ext_menu-2y .navbar-toggler {
+  color: #000000;
+}
+#ext_menu-2y .close-icon::before,
+#ext_menu-2y .close-icon::after {
+  background-color: #000000;
+}
+#ext_menu-2y .link,
+#ext_menu-2y .dropdown-item {
+  color: #000000;
+}
+#ext_menu-2y .link {
+  font-size: 1.25rem;
+}
+#ext_menu-2y .dropdown-item,
+#ext_menu-2y .nav-dropdown-sm .link {
+  font-size: 1.354rem;
+}
+#ext_menu-2y .link:hover,
+#ext_menu-2y .dropdown-item:hover,
+#ext_menu-2y .link:focus,
+#ext_menu-2y .dropdown-item:focus {
+  color: #c0a375;
+}
+#ext_menu-2y .link[aria-expanded="true"],
+#ext_menu-2y .dropdown-menu {
+  background: #e6e6e6;
+}
+#ext_menu-2y .nav-dropdown-sm .link:focus,
+#ext_menu-2y .nav-dropdown-sm .link:hover,
+#ext_menu-2y .nav-dropdown-sm .dropdown-item:focus,
+#ext_menu-2y .nav-dropdown-sm .dropdown-item:hover {
+  background: #f7f7f7!important;
+}
+#ext_menu-2y .navbar,
+#ext_menu-2y .nav-dropdown-sm,
+#ext_menu-2y .nav-dropdown-sm .link[aria-expanded="true"],
+#ext_menu-2y .nav-dropdown-sm .dropdown-menu {
+  background: #ffffff;
+}
+#ext_menu-2y .bg-color.transparent .link {
+  color: #000000;
+  transition: none;
+}
+#ext_menu-2y .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#ext_menu-2y .bg-color.transparent.opened .link:hover,
+#ext_menu-2y .bg-color.transparent.opened .link:focus {
+  color: #c0a375;
+}
+#ext_menu-2y .link[aria-expanded="true"],
+#ext_menu-2y .dropdown-item[aria-expanded="true"] {
+  color: #c0a375!important;
+}
+#header3-2z .mbr-section-title,
+#header3-2z .mbr-section-subtitle {
+  text-align: center;
+}
+#content1-30 P {
+  text-align: center;
+  font-size: 32px;
+}
+#content1-30 DIV {
+  text-align: center;
+}
+#header3-31 .mbr-section-title,
+#header3-31 .mbr-section-subtitle {
+  text-align: center;
+}
+#content1-32 P {
+  text-align: center;
+}
+#content1-34 DIV {
+  text-align: center;
+}
+#content1-35 P {
+  text-align: center;
+}
+#content1-37 P {
+  text-align: center;
+}
+#content1-38 P {
+  text-align: center;
+}
+#content1-3a P {
+  text-align: center;
+}
+#footer1-3b P {
+  color: #000000;
+  font-size: 16px;
+  font-family: 'Open Sans', sans-serif;
+}
+#content1-3d P {
+  text-align: center;
+}
+#content1-3f P {
+  text-align: center;
+}
+#content1-3h P {
+  text-align: center;
+}
+#content1-3j P {
+  text-align: center;
+}
+#content1-3l P {
+  text-align: center;
+}
+#header3-3m .mbr-section-title,
+#header3-3m .mbr-section-subtitle {
+  text-align: center;
+}
+#content1-3n P {
+  text-align: center;
+}
+#content1-3p P {
+  text-align: center;
+}
+#content1-3q P {
+  text-align: center;
+}
+#content1-3s P {
   text-align: center;
 }
