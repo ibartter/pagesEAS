@@ -1024,15 +1024,15 @@ h6,
   color: #ffffff;
 }
 #ext_menu-1g .navbar-toggler {
-  color: #000000;
+  color: #ffffff;
 }
 #ext_menu-1g .close-icon::before,
 #ext_menu-1g .close-icon::after {
-  background-color: #000000;
+  background-color: #ffffff;
 }
 #ext_menu-1g .link,
 #ext_menu-1g .dropdown-item {
-  color: #000000;
+  color: #ffffff;
 }
 #ext_menu-1g .link {
   font-size: 1.25rem;
@@ -1049,22 +1049,22 @@ h6,
 }
 #ext_menu-1g .link[aria-expanded="true"],
 #ext_menu-1g .dropdown-menu {
-  background: #e6e6e6;
+  background: #0e0e0e;
 }
 #ext_menu-1g .nav-dropdown-sm .link:focus,
 #ext_menu-1g .nav-dropdown-sm .link:hover,
 #ext_menu-1g .nav-dropdown-sm .dropdown-item:focus,
 #ext_menu-1g .nav-dropdown-sm .dropdown-item:hover {
-  background: #f7f7f7!important;
+  background: #202020!important;
 }
 #ext_menu-1g .navbar,
 #ext_menu-1g .nav-dropdown-sm,
 #ext_menu-1g .nav-dropdown-sm .link[aria-expanded="true"],
 #ext_menu-1g .nav-dropdown-sm .dropdown-menu {
-  background: #ffffff;
+  background: #282828;
 }
 #ext_menu-1g .bg-color.transparent .link {
-  color: #000000;
+  color: #ffffff;
   transition: none;
 }
 #ext_menu-1g .bg-color.transparent.opened .link {
